@@ -1,4 +1,8 @@
 This is my first git file
 This is my second change..
 This code is added by me in test branch.
+<<<<<<< HEAD
 Added a ssh key.
+=======
+new code added by git hub user
+>>>>>>> 53ae9d5b3954fd399eb59e627134edfc4bc217f8
